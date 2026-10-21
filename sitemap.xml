@@ -4,25 +4,25 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://opguide.netlify.app/</loc>
+    <loc>https://www.theopsite.com/</loc>
     <lastmod>2026-10-03T07:21:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0000</priority>
   </url>
   <url>
-    <loc>https://opguide.netlify.app/index.html</loc>
+    <loc>https://www.theopsite.com/index</loc>
     <lastmod>2026-10-03T07:21:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0000</priority>
   </url>
   <url>
-    <loc>https://opguide.netlify.app/generic.html</loc>
+    <loc>https://www.theopsite.com/generic</loc>
     <lastmod>2026-10-03T07:21:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://opguide.netlify.app/elements.html</loc>
+    <loc>https://www.theopsite.com/elements</loc>
     <lastmod>2026-10-03T07:21:57+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8000</priority>
